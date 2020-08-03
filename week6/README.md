@@ -1,5 +1,5 @@
 ## Coursera / Machine Learning / Week 6
-Regularized Linear Regression and Bias v.s. Variance
+### Regularized Linear Regression and Bias v.s. Variance
 
 During the excercise, the following code was implemented:
 * linearRegCostFunction.m - Regularized linear regression cost function
